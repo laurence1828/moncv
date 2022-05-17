@@ -1,13 +1,13 @@
 @charset "utf-8";
 
-/*font-family: 'Dosis', sans-serif;*/
+/*font-family: 'Macondo', cursive;*/
 body, html{
     padding: 0;
     margin: 0;
 }
 
 body{
-    font-family: "Dosis",sans-serif";
+    font-family: 'Macondo', cursive;
 }
 a,a:hover{
     text-decoration: none;
@@ -20,7 +20,7 @@ a,a:hover{
     line-height: 70px;
 }
 .logo{
-    color: #BFD9C0;
+    color: #BBC4B9;
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 1px;
