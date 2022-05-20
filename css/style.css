@@ -37,7 +37,7 @@ a:hover {
 
 .logo {
     color: #982ca3;
-text-transform: uppercase;
+    text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 2px;
     float: left;
@@ -76,10 +76,10 @@ text-transform: uppercase;
 
 .inner-banner {
     position: absolute;
-    top: 15%;
+    top: 30%;
     left: 10%;
     width: 50%;
-    text-align:justify;
+    text-align: justify;
 }
 
 .inner-banner {
