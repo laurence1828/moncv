@@ -37,7 +37,7 @@ a:hover {
 
 .logo {
     color: #982ca3;
-    text-transform: uppercase;
+text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 2px;
     float: left;
@@ -84,9 +84,8 @@ a:hover {
 
 .inner-banner {
     text-shadow: 1px 1px 10px;
-    text-align: left;
-    text-transform: lowercase;
-    margin-left: 0;
+    text-align: justify;
+
 }
 
 /*about*/
