@@ -76,9 +76,9 @@ a:hover {
 .inner-banner {
     position: absolute;
     top: 25%;
-    right: 20%;
+    left: 60%;
     width: 100%;
-    text-align: right;
+    text-align: left;
 }
 
 .inner-banner {
