@@ -103,16 +103,25 @@ a:hover {
 }
 
 /*portfolio*/
-.portfolio {
-    background-color: #B599C2;
-    height: 400px;
-
-}
-
 #portfolio {
     color: #6d58d8;
     text-align: center;
 }
+
+.portfolio {
+    background-color: #B599C2;
+    height: 400px;
+    filter: sepia(60%);
+    transition: 1s;
+}
+.portfolio img:hover{
+    filter: sepia(20%);
+    transform: scale(1.1);
+
+}
+
+
+
 
 /*contact*/
 .contact {
