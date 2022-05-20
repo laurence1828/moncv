@@ -49,7 +49,7 @@ a:hover {
 
 .menu a {
     color: #982ca3;
-    margin-right: 20px;
+    margin-right: 10px;
 }
 
 .menu a:hover {
@@ -74,9 +74,9 @@ a:hover {
 }
 
 .inner-banner {
-    position: relative;
-    top: 10%;
-    left: 50%;
+    position: absolute;
+    top: 20%;
+    left: 10%;
     width: 50%;
     text-align:justify;
 }
