@@ -113,7 +113,7 @@ text-transform: uppercase;
 
 .portfolio {
     background-color: #B599C2;
-    height: 600px;
+    height: 400px;
     filter: sepia(60%);
     transition: 1s;
 }
