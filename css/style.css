@@ -36,7 +36,7 @@ a:hover {
 }
 
 .logo {
-    color: #F2FF8D;
+    color: #982ca3;
     text-transform: uppercase;
     font-weight: bold;
     letter-spacing: 2px;
@@ -48,12 +48,12 @@ a:hover {
 }
 
 .menu a {
-    color: #CAE6E9;
+    color: #982ca3;
     margin-right: 20px;
 }
 
 .menu a:hover {
-    color: #A4F2AC;
+    color: #5facca;
 }
 
 /*bannière*/
