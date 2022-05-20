@@ -21,7 +21,7 @@ a:hover {
 }
 
 .separator {
-    height: 10px;
+    height: 3px;
     width: 100%;
     border: none;
     box-shadow: none;
@@ -105,12 +105,12 @@ a:hover {
 /*portfolio*/
 .portfolio {
     background-color: #B599C2;
-    height: 500px;
+    height: 400px;
 
 }
 
 #portfolio {
-    color: #F2FF8D;
+    color: #6d58d8;
     text-align: center;
 }
 
