@@ -71,6 +71,7 @@ a:hover {
 .ban img {
     width: 100%;
     max-width: 100%;
+
 }
 
 .inner-banner {
@@ -82,7 +83,10 @@ a:hover {
 }
 
 .inner-banner {
-    text-shadow: 1px 1px 20px;
+    text-shadow: 1px 1px 10px;
+    text-align: left;
+    text-transform: lowercase;
+    margin-left: 0;
 }
 
 /*about*/
