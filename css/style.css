@@ -32,7 +32,7 @@ a:hover {
 .header {
     background-color: #BCB6BD;
     height: 70px;
-    line-height: 70px;
+    line-height: 90px;
 }
 
 .logo {
@@ -65,7 +65,7 @@ a:hover {
 .ban {
     width: 100%;
     max-width: 100%;
-    position: absolute;
+    position: relative;
 }
 
 .ban img {
@@ -74,11 +74,11 @@ a:hover {
 }
 
 .inner-banner {
-    position: absolute;
-    top: 25%;
+    position: relative;
+    top: 10%;
     left: 50%;
-    width: 80%;
-    text-align: left;
+    width: 50%;
+    text-align:justify;
 }
 
 .inner-banner {
@@ -110,7 +110,7 @@ a:hover {
 
 .portfolio {
     background-color: #B599C2;
-    height: 400px;
+    height: 600px;
     filter: sepia(60%);
     transition: 1s;
 }
