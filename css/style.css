@@ -114,14 +114,12 @@ a:hover {
     filter: sepia(60%);
     transition: 1s;
 }
-.portfolio img:hover{
+
+.portfolio img:hover {
     filter: sepia(20%);
     transform: scale(1.1);
 
 }
-
-
-
 
 /*contact*/
 .contact {
