@@ -65,7 +65,7 @@ a:hover {
 .ban {
     width: 100%;
     max-width: 100%;
-    position: relative;
+    position: absolute;
 }
 
 .ban img {
