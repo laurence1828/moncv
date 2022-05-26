@@ -31,7 +31,8 @@ a:hover {
 
 /*header*/
 .header {
-    background-color: #BCB6BD;
+    /* background-color: #BCB6BD; */
+    background-image: url(../img/vintage.jpg);
     height: 90px;
     line-height: 90px;
 }
