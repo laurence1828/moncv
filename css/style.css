@@ -110,13 +110,14 @@ a:hover {
 
 /*portfolio*/
 #portfolio {
-    color: #6d58d8;
+    color: #FF99C1;
     text-align: center;
+    margin-top: 10%;
 }
 
-.portfolio {
+.portfolio galerie{
     background-color: #B599C2;
-    margin-top: 10%;
+ margin-top: 10px;
     height: 400px;
     filter: sepia(60%);
     transition: 1s;
@@ -125,7 +126,7 @@ a:hover {
 .portfolio img:hover {
     filter: sepia(20%);
     transform: scale(1.1);
-
+   
 }
 
 /*contact*/
@@ -134,7 +135,7 @@ a:hover {
 /* } */
 
 #contact {
-    color: #BF9EEC;
+    color: #FF99C1;
     margin-top: 10%;
     text-align: center;
 }
