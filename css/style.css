@@ -107,6 +107,11 @@ a:hover {
     text-align: center;
     margin-bottom: 5%;
 }
+#bases{
+    color: #FF99C1;
+    text-align: center;
+    margin-top: 10%;
+}
 
 /*portfolio*/
 #portfolio {
