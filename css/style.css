@@ -73,7 +73,7 @@ a:hover {
 .ban img {
     width: 100%;
     max-width: 100%;
-   
+
 
 }
 
@@ -100,17 +100,22 @@ a:hover {
 
 .about article {
     background-color: #F4E2DE;
-    
+
 }
 
 .about article h2 {
     text-align: center;
     margin-bottom: 5%;
 }
-#bases{
+
+#bases {
     color: #FF99C1;
     text-align: center;
     margin-top: 10%;
+}
+
+.bases h1 {
+    text-align: center;
 }
 
 /*portfolio*/
@@ -120,9 +125,9 @@ a:hover {
     margin-top: 10%;
 }
 
-.portfolio galerie{
+.portfolio galerie {
     background-color: #B599C2;
- margin-top: 10px;
+    margin-top: 10px;
     height: 400px;
     filter: sepia(60%);
     transition: 1s;
@@ -131,12 +136,12 @@ a:hover {
 .portfolio img:hover {
     filter: sepia(20%);
     transform: scale(1.1);
-   
+
 }
 
 /*contact*/
 /* .contact { */
-    /* background-color: #dfdfde; */
+/* background-color: #dfdfde; */
 /* } */
 
 #contact {
