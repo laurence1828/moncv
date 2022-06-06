@@ -67,12 +67,12 @@ a:hover {
 .ban {
     width: 100%;
     max-width: 100%;
-    position: absolute;
+    position: relative;
 }
 
 .ban img {
-    width: 100%;
-    max-width: 100%;
+    width: 100px;
+    max-width: 100px;
 
 
 }
@@ -82,7 +82,7 @@ a:hover {
     top: 30%;
     left: 10%;
     width: 50%;
-    text-align: justify;
+    text-align:justify;
 }
 
 .inner-banner {
@@ -127,7 +127,7 @@ a:hover {
 
 .portfolio galerie {
     background-color: #B599C2;
-    margin-top: 10px;
+    margin-top: 10%;
     height: 400px;
     filter: sepia(60%);
     transition: 1s;
@@ -151,5 +151,5 @@ a:hover {
 }
 
 .formulairecontact {
-    width: 500px;
+    width: 500%;
 }
