@@ -17,10 +17,11 @@ a:hover {
     text-decoration: none;
 }
 
-.container {
-    min-width: 800px;
-    margin: 1em 2em;
+.container-fluid {
+    padding: 0;
 }
+
+margin: 1em 2em;
 
 .separator {
     height: 3px;
